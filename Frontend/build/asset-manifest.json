@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04238dd0.css",
+    "main.js": "/static/js/main.c19816fd.js",
+    "static/js/787.1b7283c0.chunk.js": "/static/js/787.1b7283c0.chunk.js",
+    "static/media/RedHatDisplay-VariableFont_wght.ttf": "/static/media/RedHatDisplay-VariableFont_wght.efce1fc0edae25633558.ttf",
+    "static/media/PL.webp": "/static/media/PL.bd6dbd051a4638bc328e.webp",
+    "static/media/sub-logo.png": "/static/media/sub-logo.faa74e49889b3b75d869.png",
+    "index.html": "/index.html",
+    "main.04238dd0.css.map": "/static/css/main.04238dd0.css.map",
+    "main.c19816fd.js.map": "/static/js/main.c19816fd.js.map",
+    "787.1b7283c0.chunk.js.map": "/static/js/787.1b7283c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04238dd0.css",
+    "static/js/main.c19816fd.js"
+  ]
+}
