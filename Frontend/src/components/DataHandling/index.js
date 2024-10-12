@@ -16,11 +16,11 @@ const DataHandling = () => {
     let apiUrl = '';
 
     if (teamValue) {
-      apiUrl = `http://localhost:8080/api/v1/player?team=${encodeURIComponent(teamValue)}`;
+      apiUrl = `http://pl-backend-production.up.railway.app/api/v1/player?team=${encodeURIComponent(teamValue)}`;
     } else if (nationValue) {
-      apiUrl = `http://localhost:8080/api/v1/player/nation?nation=${encodeURIComponent(nationValue)}`;
+      apiUrl = `http://pl-backend-production.up.railway.app/api/v1/player/nation?nation=${encodeURIComponent(nationValue)}`;
     } else if (positionValue) {
-      apiUrl = `http://localhost:8080/api/v1/player/position?position=${encodeURIComponent(positionValue)}`;
+      apiUrl = `http://pl-backend-production.up.railway.app/api/v1/player/position?position=${encodeURIComponent(positionValue)}`;
     }
 
     if (apiUrl) {
